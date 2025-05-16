@@ -1,4 +1,3 @@
-
 # SaaS Website Builder, Project Management And Dashboard With Stripe using Nextjs14, Bun, Stripe Connect, Prisma, MySQL, Tailwind
 
 Plura is a fully-featured SaaS website builder and project management system built with Next.js 14, Bun, Prisma, MySQL, Stripe Connect, Tailwind CSS, and more. It is designed for businesses offering multivendor services, complete with subscription billing, custom checkouts, and agency/sub-account management.
